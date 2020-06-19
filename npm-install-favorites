@@ -1,0 +1,133 @@
+#!/bin/sh
+
+##
+# npm-install-favorites
+#
+# Use the `npm` command to install our favorite packages for Node etc.
+#
+# ## Tracking
+#
+# * Command: https://github.com/sixarm/npm-install-favorites
+# * Version: 3.0.0
+# * Created: 2015-12-28T22:08:36Z
+# * Updated: 2020-06-20T23:03:37Z
+# * License: [GPL-2.0](https://spdx.org/licenses/GPL-2.0-only.html)
+# * Contact: [Joel Parker Henderson](http://joelparkerhenderson.com)
+##
+
+# angular: HTML enhanced for web apps.
+npm install angular
+
+# async: Asynchronous utilities for node and the browser.
+npm install async
+
+# autoprefixer: add support for older browsers
+npm install autoprefixer
+
+# Babel for compiling ES6 JavaScript files
+# https://babeljs.io/
+npm install babel-cli
+npm install babel-preset-env
+npm install babel-preset-es2015-ie
+
+# bower: package manager for the web.
+npm install bower
+
+# browserify: browser-side require() the node.js way.
+npm install browserify
+
+# bulma: a modern CSS framework based on Flexbox.
+npm install bulma
+
+# chai:  Chai is a BDD / TDD assertion library for node and the browser.
+npm install chai
+
+# Chrome browser for web broswer automation and testing
+npm install chromedriver
+
+# commander: command-line interfaces made easy.
+npm install commander
+
+# dataloader: Facebook DataLoader provides API over data fetching.
+npm install dataloader
+
+# fx: json processing CLI
+npm install fx
+
+# Grunt: The JavaScript Task Runner.
+npm install grunt
+
+# gulp-uglify: Minify files with UglifyJS.
+npm install gulp-uglify
+
+# express: Framework for creating and publishing applications and APIs.
+npm install express
+
+# express-graphql: Create a GraphQL HTTP server with Express
+npm install express-graphql
+
+# karma: Spectacular Test Runner for JavaScript.
+npm install karma
+
+# Less: The dynamic stylesheet language.
+npm install less
+
+# marked: A markdown parser and compiler built for speed.
+npm install marked
+
+# mocha: Simple, flexible, fun JavaScript test framework for Node.js & The Browser.
+npm install mocha
+
+# Moon: a minimal, blazing fast user interface library.
+npm install moonjs
+npm install moon-cli
+npm install moon-router
+npm install moon-ssr
+
+# morgan: HTTP request logger middleware for node.js.
+npm install morgan
+
+# mysql: A pure node.js JavaScript Client implementing the MySQL protocol.
+npm install mysql
+
+# NPM merge driver: teach git how to merge package-lock.json files
+npm install npm-merge-driver
+
+# node-sass: compile your own Sass file.
+npm install node-sass
+
+# pg: node-postgress non-blocking PostgreSQL client for Node.js. Pure JavaScript and optional native libpq bindings.
+npm install pg
+
+# pm2: Process Manager with a built-in Load Balancer. 
+npm install pm2
+
+# postcss-cli: add support for older browsers
+npm install postcss-cli
+
+# react: JavaScript library for building user interfaces.
+npm install react
+
+# request: Simplified HTTP request client.
+npm install request
+
+# selenium-webdriver: Selenium webdriver for web browser automation and testing
+npm install selenium-webdriver
+
+# svelte: web application framework.
+npm install svelte
+
+# tldr: too long, didn't read
+npm install tldr
+
+# underscore: JavaScript's utility belt.
+npm install underscore
+
+# webpack: A bundler for javascript and friends.
+npm install webpack
+
+# xlsx: Spreadsheet Data Toolkit
+npm install xlsx
+
+# ymlx: yaml processing CLI
+npm install ymlx
