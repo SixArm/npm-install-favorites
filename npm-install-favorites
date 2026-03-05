@@ -66,6 +66,9 @@ npm install express
 # express-graphql: Create a GraphQL HTTP server with Express
 npm install express-graphql
 
+@ googleworkspace/cli - One CLI for all of Google Workspace, built for humans and AI agents.
+npm install @googleworkspace/cli
+
 # karma: Spectacular Test Runner for JavaScript.
 npm install karma
 
